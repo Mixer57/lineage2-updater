@@ -26,4 +26,12 @@ Known Issues
 * Sometime file download progress bar gets stuck while downloading files.
 * Full check takes hours to finish if client folder has no previous cabal game files as multipart file download and multi-thread file processing has not been implemented yet.
 
+To Do and Plans
+----------------
+- [ ] Make single path file instead many 7z archives
+- [ ] Improve logics for updater
+- [ ] Make code refactoring
+- [ ] Add Exception catcher to automatically send errors to developer
+- [ ] New version checker???
+
 Report errors with screenshots in the issues section of this project.
