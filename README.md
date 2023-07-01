@@ -1,4 +1,4 @@
-Cabal Online Updater
+Online Game Updater
 =====================
 A sample game updater/launcher made for test servers. This code can be used as a starting point for building your custom better verion of the updater.
 
